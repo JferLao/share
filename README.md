@@ -23,3 +23,7 @@
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
 
 [React Native 性能优化指南【全网最全，值得收藏】](https://segmentfault.com/a/1190000021532410)
+
+[傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc#heading-10)
+
+[【你应该了解的】详尽&全面的前端部署（从零起步，前端上线不用愁）](https://juejin.im/post/5e048025e51d4558052f338e)
