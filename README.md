@@ -27,3 +27,13 @@
 [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc#heading-10)
 
 [【你应该了解的】详尽&全面的前端部署（从零起步，前端上线不用愁）](https://juejin.im/post/5e048025e51d4558052f338e)
+
+[用 Web 实现一个简易的音频编辑器](https://segmentfault.com/a/1190000021531979#item-2-7)
+
+[前端利用canvas给图片添加水印](https://segmentfault.com/a/1190000021570950)
+
+[字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
+
+[从优化到面试装逼指南——网络系列](https://juejin.im/post/5defb2866fb9a01631780d29)
+
+[2020 Create React App 开始一个UI组件库](https://juejin.im/post/5e1826aee51d451c851a8555)
