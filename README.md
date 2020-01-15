@@ -37,3 +37,5 @@
 [从优化到面试装逼指南——网络系列](https://juejin.im/post/5defb2866fb9a01631780d29)
 
 [2020 Create React App 开始一个UI组件库](https://juejin.im/post/5e1826aee51d451c851a8555)
+
+[Vue 图片压缩并上传至服务器](https://juejin.im/post/5e1e8129e51d453cee48cd8b)
