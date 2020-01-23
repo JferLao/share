@@ -39,3 +39,7 @@
 [2020 Create React App 开始一个UI组件库](https://juejin.im/post/5e1826aee51d451c851a8555)
 
 [Vue 图片压缩并上传至服务器](https://juejin.im/post/5e1e8129e51d453cee48cd8b)
+
+[初、中级前端应该要掌握的手写代码实现](https://juejin.im/post/5e24590ef265da3e152d27bc#heading-5)
+
+[译】面试官：请你实现一个PWA 我：](https://juejin.im/post/5e26aa785188254c257c462d)
