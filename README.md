@@ -43,3 +43,5 @@
 [初、中级前端应该要掌握的手写代码实现](https://juejin.im/post/5e24590ef265da3e152d27bc#heading-5)
 
 [译】面试官：请你实现一个PWA 我：](https://juejin.im/post/5e26aa785188254c257c462d)
+
+[能解决 80% 需求的 10个 CSS动画库](https://segmentfault.com/a/1190000021553921#item-2)
