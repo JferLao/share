@@ -49,3 +49,5 @@
 [史上最全面的Web导航栏设计、底栏设计、表单设计模式深入梳理](https://www.jianshu.com/p/b9fa98cbf17c)
 
 [h5手机键盘弹出收起的处理](https://segmentfault.com/a/1190000021622684#item-1-1)
+
+[正则表达式语法及常用正则 正则表达式语法及常用正则](http://www.qcyoung.com/2016/06/07/%E3%80%90%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93%E3%80%91%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%AD%E6%B3%95%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%AD%A3%E5%88%99/)
