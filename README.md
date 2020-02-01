@@ -55,3 +55,5 @@
 [15分钟带你了解前端工程师必知的javascript设计模式(附详细思维导图和源码)](https://juejin.im/post/5e32bbc9f265da3e1a59b2ab)
 
 [每日 CSS 技巧](https://juejin.im/post/5e34d266f265da3e177f2000#heading-31)
+
+[TS 常见问题整理](https://juejin.im/post/5e33fcd06fb9a02fc767c427)
