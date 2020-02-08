@@ -44,7 +44,6 @@
 
 [译】面试官：请你实现一个PWA 我：](https://juejin.im/post/5e26aa785188254c257c462d)
 
-[能解决 80% 需求的 10个 CSS动画库](https://segmentfault.com/a/1190000021553921#item-2)
 
 [史上最全面的Web导航栏设计、底栏设计、表单设计模式深入梳理](https://www.jianshu.com/p/b9fa98cbf17c)
 
