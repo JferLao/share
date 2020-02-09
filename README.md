@@ -62,3 +62,5 @@
 [「进击的前端工程师」CSS色彩揭秘](https://juejin.im/post/5e3cd5caf265da5735504108)
 
 [CSS的常用套路](https://juejin.im/post/5e070cd9f265da33f8653f00)
+
+[Nodejs实战系列：数据加密与crypto模块](https://juejin.im/post/5e3e46acf265da57480f2d60)
