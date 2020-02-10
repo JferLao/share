@@ -64,3 +64,5 @@
 [CSS的常用套路](https://juejin.im/post/5e070cd9f265da33f8653f00)
 
 [Nodejs实战系列：数据加密与crypto模块](https://juejin.im/post/5e3e46acf265da57480f2d60)
+
+[《大前端吊打面试官系列》 之原生 JavaScript 精华篇](https://juejin.im/post/5e34d19de51d4558864b1d1f)
