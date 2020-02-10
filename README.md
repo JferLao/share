@@ -16,8 +16,6 @@
 
 [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://segmentfault.com/a/1190000021504781)
 
-[11 个 JavaScript 精简技巧](https://segmentfault.com/a/1190000021518997)
-
 [从 8 道面试题看浏览器渲染过程与性能优化](https://segmentfault.com/a/1190000021517583)
 
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
