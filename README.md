@@ -64,3 +64,5 @@
 [Nodejs实战系列：数据加密与crypto模块](https://juejin.im/post/5e3e46acf265da57480f2d60)
 
 [《大前端吊打面试官系列》 之原生 JavaScript 精华篇](https://juejin.im/post/5e34d19de51d4558864b1d1f)
+
+[JavaScript优雅写法及骚操作](https://juejin.im/post/5e42826551882549063a7b7c)
