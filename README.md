@@ -66,3 +66,5 @@
 [《大前端吊打面试官系列》 之原生 JavaScript 精华篇](https://juejin.im/post/5e34d19de51d4558864b1d1f)
 
 [JavaScript优雅写法及骚操作](https://juejin.im/post/5e42826551882549063a7b7c)
+
+[(1.8w字)负重前行，前端工程师如何系统练习数据结构和算法？](https://juejin.im/post/5e2f88156fb9a02fdd38a184)
