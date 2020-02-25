@@ -70,3 +70,7 @@
 [(1.8w字)负重前行，前端工程师如何系统练习数据结构和算法？](https://juejin.im/post/5e2f88156fb9a02fdd38a184)
 
 [2020 年你应该知道的 React 库](https://juejin.im/post/5e4e1b07e51d4527143e44be)
+
+[在 async/await 中更好的处理错误](https://juejin.im/post/5e535624518825496e784ccb)
+
+[前端下载文件的5种方法的对比](https://juejin.im/post/5e50fa23518825494b3cccd7)
