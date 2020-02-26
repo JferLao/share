@@ -74,3 +74,7 @@
 [在 async/await 中更好的处理错误](https://juejin.im/post/5e535624518825496e784ccb)
 
 [前端下载文件的5种方法的对比](https://juejin.im/post/5e50fa23518825494b3cccd7)
+
+[终于搞懂 React Hooks了！！！！！](https://juejin.im/post/5e53d9116fb9a07c9070da44)
+
+[127个常用的JS代码片段，每段代码花30秒就能看懂](https://juejin.im/post/5e55296ef265da57663fd49d#heading-5)
