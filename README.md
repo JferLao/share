@@ -78,3 +78,5 @@
 [终于搞懂 React Hooks了！！！！！](https://juejin.im/post/5e53d9116fb9a07c9070da44)
 
 [127个常用的JS代码片段，每段代码花30秒就能看懂](https://juejin.im/post/5e55296ef265da57663fd49d#heading-5)
+
+[前端必知必会之 JS 单线程与异步](https://juejin.im/post/5e55272e6fb9a07ca453436f#heading-0)
