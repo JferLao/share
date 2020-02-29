@@ -80,3 +80,5 @@
 [127个常用的JS代码片段，每段代码花30秒就能看懂](https://juejin.im/post/5e55296ef265da57663fd49d#heading-5)
 
 [前端必知必会之 JS 单线程与异步](https://juejin.im/post/5e55272e6fb9a07ca453436f#heading-0)
+
+[要就来45道Promise面试题](https://juejin.im/post/5e58c618e51d4526ed66b5cf)
