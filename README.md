@@ -82,3 +82,5 @@
 [前端必知必会之 JS 单线程与异步](https://juejin.im/post/5e55272e6fb9a07ca453436f#heading-0)
 
 [要就来45道Promise面试题](https://juejin.im/post/5e58c618e51d4526ed66b5cf)
+
+[4W字长文带你深度解锁Webpack系列](https://juejin.im/post/5e6518946fb9a07c820fbaaf)
