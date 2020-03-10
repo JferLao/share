@@ -86,3 +86,5 @@
 [4W字长文带你深度解锁Webpack系列](https://juejin.im/post/5e6518946fb9a07c820fbaaf)
 
 [妙用CSS变量，让你的CSS变得更心动](https://juejin.im/post/5e5d0f2ef265da5756325bb9)
+
+[从手写Promise到async/await(接近6千字,建议看一下)](https://juejin.im/post/5e5f52fce51d4526ea7efdec)
