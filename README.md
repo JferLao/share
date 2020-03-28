@@ -88,3 +88,5 @@
 [妙用CSS变量，让你的CSS变得更心动](https://juejin.im/post/5e5d0f2ef265da5756325bb9)
 
 [从手写Promise到async/await(接近6千字,建议看一下)](https://juejin.im/post/5e5f52fce51d4526ea7efdec)
+
+[一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628#heading-43)
