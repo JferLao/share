@@ -96,3 +96,5 @@
 [面试官：你了解过移动端适配吗？](https://juejin.im/post/5e6caf55e51d4526ff026a71)
 
 [书到用时方恨少，一大波JS开发工具函数来了](https://juejin.im/post/5e6cf42bf265da57397e3694)
+
+[前端Nginx那些事](https://juejin.im/post/5e7ad2455188255e2c7256ac)
