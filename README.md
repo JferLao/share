@@ -98,3 +98,5 @@
 [书到用时方恨少，一大波JS开发工具函数来了](https://juejin.im/post/5e6cf42bf265da57397e3694)
 
 [前端Nginx那些事](https://juejin.im/post/5e7ad2455188255e2c7256ac)
+
+[前端性能优化 23 条建议（2020）](https://segmentfault.com/a/1190000022205291)
