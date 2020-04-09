@@ -55,8 +55,6 @@
 
 [TS 常见问题整理](https://juejin.im/post/5e33fcd06fb9a02fc767c427)
 
-[593集前端视频教程全部免费](https://juejin.im/post/5e3a249a6fb9a07cd80f0f59)
-
 [「进击的前端工程师」CSS色彩揭秘](https://juejin.im/post/5e3cd5caf265da5735504108)
 
 [CSS的常用套路](https://juejin.im/post/5e070cd9f265da33f8653f00)
@@ -69,8 +67,6 @@
 
 [(1.8w字)负重前行，前端工程师如何系统练习数据结构和算法？](https://juejin.im/post/5e2f88156fb9a02fdd38a184)
 
-[2020 年你应该知道的 React 库](https://juejin.im/post/5e4e1b07e51d4527143e44be)
-
 [在 async/await 中更好的处理错误](https://juejin.im/post/5e535624518825496e784ccb)
 
 [前端下载文件的5种方法的对比](https://juejin.im/post/5e50fa23518825494b3cccd7)
@@ -82,8 +78,6 @@
 [前端必知必会之 JS 单线程与异步](https://juejin.im/post/5e55272e6fb9a07ca453436f#heading-0)
 
 [要就来45道Promise面试题](https://juejin.im/post/5e58c618e51d4526ed66b5cf)
-
-[4W字长文带你深度解锁Webpack系列](https://juejin.im/post/5e6518946fb9a07c820fbaaf)
 
 [妙用CSS变量，让你的CSS变得更心动](https://juejin.im/post/5e5d0f2ef265da5756325bb9)
 
@@ -104,3 +98,9 @@
 [ES6系列之项目中常用的新特性](https://juejin.im/post/5e7c3065e51d455c49184f2b)
 
 [你未必知道的49个CSS知识点](https://juejin.im/post/5d3eca78e51d4561cb5dde12)
+
+[面经大全](https://segmentfault.com/a/1190000021955120)
+
+[面试经验汇总](https://segmentfault.com/a/1190000020028294#item-3)
+
+[面试准备](https://segmentfault.com/a/1190000009200927)
