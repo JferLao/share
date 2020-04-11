@@ -51,13 +51,8 @@
 
 [15分钟带你了解前端工程师必知的javascript设计模式(附详细思维导图和源码)](https://juejin.im/post/5e32bbc9f265da3e1a59b2ab)
 
-[每日 CSS 技巧](https://juejin.im/post/5e34d266f265da3e177f2000#heading-31)
 
 [TS 常见问题整理](https://juejin.im/post/5e33fcd06fb9a02fc767c427)
-
-[「进击的前端工程师」CSS色彩揭秘](https://juejin.im/post/5e3cd5caf265da5735504108)
-
-[CSS的常用套路](https://juejin.im/post/5e070cd9f265da33f8653f00)
 
 [Nodejs实战系列：数据加密与crypto模块](https://juejin.im/post/5e3e46acf265da57480f2d60)
 
@@ -79,11 +74,7 @@
 
 [要就来45道Promise面试题](https://juejin.im/post/5e58c618e51d4526ed66b5cf)
 
-[妙用CSS变量，让你的CSS变得更心动](https://juejin.im/post/5e5d0f2ef265da5756325bb9)
-
 [从手写Promise到async/await(接近6千字,建议看一下)](https://juejin.im/post/5e5f52fce51d4526ea7efdec)
-
-[一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628#heading-43)
 
 [HTML5 地理定位+地图 API：计算用户到商家的距离](https://juejin.im/post/5e7e126b51882573c508be13)
 
@@ -97,18 +88,25 @@
 
 [ES6系列之项目中常用的新特性](https://juejin.im/post/5e7c3065e51d455c49184f2b)
 
-[你未必知道的49个CSS知识点](https://juejin.im/post/5d3eca78e51d4561cb5dde12)
 
+## 面试相关
 [面经大全](https://segmentfault.com/a/1190000021955120)
 
 [面试经验汇总](https://segmentfault.com/a/1190000020028294#item-3)
 
 [面试准备](https://segmentfault.com/a/1190000009200927)
 
-[一篇文章解决flex布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb#heading-8)
+[前端面试](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-12)
+
+
+
+## CSS相关
+[CSS布局总结](https://juejin.im/post/5aa252ac518825558001d5de#heading-29)
 
 [学习Less](https://juejin.im/post/5a2bc28f6fb9a044fe464b19)
 
-[前端面试](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-12)
+[一篇文章解决flex布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb#heading-8)
 
-[CSS布局总结](https://juejin.im/post/5aa252ac518825558001d5de#heading-29)
+[「进击的前端工程师」CSS色彩揭秘](https://juejin.im/post/5e3cd5caf265da5735504108)
+
+[浏览器的回流与重绘](https://juejin.im/post/5a9923e9518825558251c96a)
