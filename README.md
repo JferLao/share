@@ -100,3 +100,5 @@
 [《大前端吊打面试官系列》 之原生 JavaScript 精华篇](https://juejin.im/post/5e34d19de51d4558864b1d1f)
 
 [要就来45道Promise面试题](https://juejin.im/post/5e58c618e51d4526ed66b5cf)
+
+[知识点](https://juejin.im/post/5e8b261ae51d4546c0382ab4#heading-75)
