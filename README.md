@@ -30,15 +30,11 @@
 
 [15分钟带你了解前端工程师必知的javascript设计模式(附详细思维导图和源码)](https://juejin.im/post/5e32bbc9f265da3e1a59b2ab)
 
-[JavaScript优雅写法及骚操作](https://juejin.im/post/5e42826551882549063a7b7c)
-
 [TS 常见问题整理](https://juejin.im/post/5e33fcd06fb9a02fc767c427)
 
 [在 async/await 中更好的处理错误](https://juejin.im/post/5e535624518825496e784ccb)
 
 [前端下载文件的5种方法的对比](https://juejin.im/post/5e50fa23518825494b3cccd7)
-
-[127个常用的JS代码片段，每段代码花30秒就能看懂](https://juejin.im/post/5e55296ef265da57663fd49d#heading-5)
 
 [前端必知必会之 JS 单线程与异步](https://juejin.im/post/5e55272e6fb9a07ca453436f#heading-0)
 
