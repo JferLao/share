@@ -98,3 +98,5 @@
 [要就来45道Promise面试题](https://juejin.im/post/5e58c618e51d4526ed66b5cf)
 
 [知识点](https://juejin.im/post/5e8b261ae51d4546c0382ab4#heading-75)
+
+[面试宝典](https://juejin.im/post/5e91b01651882573716a9b23#heading-114)
