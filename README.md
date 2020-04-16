@@ -36,11 +36,7 @@
 
 [前端下载文件的5种方法的对比](https://juejin.im/post/5e50fa23518825494b3cccd7)
 
-[前端必知必会之 JS 单线程与异步](https://juejin.im/post/5e55272e6fb9a07ca453436f#heading-0)
-
 [从手写Promise到async/await(接近6千字,建议看一下)](https://juejin.im/post/5e5f52fce51d4526ea7efdec)
-
-[ES6系列之项目中常用的新特性](https://juejin.im/post/5e7c3065e51d455c49184f2b)
 
 
 ## 性能优化
