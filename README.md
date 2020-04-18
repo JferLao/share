@@ -60,8 +60,6 @@
 [终于搞懂 React Hooks了！！！！！](https://juejin.im/post/5e53d9116fb9a07c9070da44)
 
 ## 前端工程化相关
-[关于 Git 的 20 个面试题](https://segmentfault.com/a/1190000019315509)
-
 [git基本操作](https://juejin.im/post/5ae072906fb9a07a9e4ce596)
 
 ## 服务器相关
