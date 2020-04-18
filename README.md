@@ -62,6 +62,8 @@
 ## 前端工程化相关
 [关于 Git 的 20 个面试题](https://segmentfault.com/a/1190000019315509)
 
+[git基本操作](https://juejin.im/post/5ae072906fb9a07a9e4ce596)
+
 ## 服务器相关
 [【你应该了解的】详尽&全面的前端部署（从零起步，前端上线不用愁）](https://juejin.im/post/5e048025e51d4558052f338e)
 
@@ -79,8 +81,6 @@
 [前端面试](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-12)
 
 [吐血整理！！！2019最强前端面试合集(编程题)](https://segmentfault.com/a/1190000021390890#item-1-4)
-
-[关于 Git 的 20 个面试题](https://segmentfault.com/a/1190000019315509)
 
 [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://segmentfault.com/a/1190000021504781)
 
