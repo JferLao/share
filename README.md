@@ -40,6 +40,8 @@
 
 [从setTimeout理解JS运行机制](https://juejin.im/post/5c94e1515188252d8d190d4c#heading-11)
 
+[一文看懂Chrome浏览器运行机制](https://zhuanlan.zhihu.com/p/102149546)
+
 ## 性能优化
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
 
