@@ -38,6 +38,7 @@
 
 [从手写Promise到async/await(接近6千字,建议看一下)](https://juejin.im/post/5e5f52fce51d4526ea7efdec)
 
+[从setTimeout理解JS运行机制](https://juejin.im/post/5c94e1515188252d8d190d4c#heading-11)
 
 ## 性能优化
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
