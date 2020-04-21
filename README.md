@@ -42,6 +42,8 @@
 
 [一文看懂Chrome浏览器运行机制](https://zhuanlan.zhihu.com/p/102149546)
 
+[深拷贝](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1#heading-2)
+
 ## 性能优化
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
 
