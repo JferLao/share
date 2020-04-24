@@ -26,7 +26,7 @@
 
 [从 Fetch 到 Streams —— 以流的角度处理网络请求](https://segmentfault.com/a/1190000021367378#item-10)
 
-[正则表达式语法及常用正则 正则表达式语法及常用正则](http://www.qcyoung.com/2016/06/07/%E3%80%90%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93%E3%80%91%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%AD%E6%B3%95%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%AD%A3%E5%88%99/)
+[JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
 
 [15分钟带你了解前端工程师必知的javascript设计模式(附详细思维导图和源码)](https://juejin.im/post/5e32bbc9f265da3e1a59b2ab)
 
@@ -43,6 +43,8 @@
 [一文看懂Chrome浏览器运行机制](https://zhuanlan.zhihu.com/p/102149546)
 
 [深拷贝](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1#heading-2)
+
+[前端路由](https://juejin.im/post/5ac61da66fb9a028c71eae1b)
 
 ## 性能优化
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
