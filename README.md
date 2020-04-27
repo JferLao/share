@@ -50,6 +50,8 @@
 
 [浅谈 instanceof 和 typeof 的实现原理](https://juejin.im/post/5b0b9b9051882515773ae714)
 
+[JavaScript运行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+
 ## 性能优化
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
 
