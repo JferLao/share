@@ -48,6 +48,8 @@
 
 [发布订阅模式](https://juejin.im/post/5b125ad3e51d450688133f22#heading-4)
 
+[浅谈 instanceof 和 typeof 的实现原理](https://juejin.im/post/5b0b9b9051882515773ae714)
+
 ## 性能优化
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
 
