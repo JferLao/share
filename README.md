@@ -46,6 +46,8 @@
 
 [前端路由](https://juejin.im/post/5ac61da66fb9a028c71eae1b)
 
+[发布订阅模式](https://juejin.im/post/5b125ad3e51d450688133f22#heading-4)
+
 ## 性能优化
 [防抖和节流](https://segmentfault.com/a/1190000021497124)
 
