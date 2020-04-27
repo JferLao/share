@@ -71,6 +71,8 @@
 ## 服务器相关
 [【你应该了解的】详尽&全面的前端部署（从零起步，前端上线不用愁）](https://juejin.im/post/5e048025e51d4558052f338e)
 
+[NodeJS 知识体系](https://juejin.im/post/5c4c0ee8f265da61117aa527#heading-21)
+
 [前端Nginx那些事](https://juejin.im/post/5e7ad2455188255e2c7256ac)
 
 [Nodejs实战系列：数据加密与crypto模块](https://juejin.im/post/5e3e46acf265da57480f2d60)
