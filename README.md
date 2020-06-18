@@ -86,8 +86,6 @@
 
 [面试经验汇总](https://segmentfault.com/a/1190000020028294#item-3)
 
-[面试准备](https://segmentfault.com/a/1190000009200927)
-
 [前端面试](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-12)
 
 [吐血整理！！！2019最强前端面试合集(编程题)](https://segmentfault.com/a/1190000021390890#item-1-4)
