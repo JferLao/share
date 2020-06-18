@@ -88,6 +88,8 @@
 
 [前端面试](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-12)
 
+[前端复习](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-46)
+
 [吐血整理！！！2019最强前端面试合集(编程题)](https://segmentfault.com/a/1190000021390890#item-1-4)
 
 [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://segmentfault.com/a/1190000021504781)
