@@ -83,6 +83,8 @@
 
 [Nodejs实战系列：数据加密与crypto模块](https://juejin.im/post/5e3e46acf265da57480f2d60)
 
+[Node.js 进阶-你应该知道的 npm 知识都在这](https://juejin.im/post/5ef7e0066fb9a07e976bc89e#heading-0)
+
 ## 面试相关
 [面经大全](https://segmentfault.com/a/1190000021955120)
 
