@@ -122,4 +122,6 @@
 
 [计算机网络知识点](https://juejin.im/post/5ee27de06fb9a047f7131eb2#heading-21)
 
+[video](https://juejin.im/post/5f0e52fe518825742109d9ee#heading-45)
+
 [计算机网络基础](https://juejin.im/post/5ad7e6c35188252ebd06acfa)
